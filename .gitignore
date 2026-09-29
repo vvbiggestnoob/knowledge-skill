@@ -1,0 +1,14 @@
+# Runtime cache
+cache/
+
+# Local workspace state
+.zcode/
+
+# Real config with secrets — use knowledge_bases.example.json as template
+conf/knowledge_bases.json
+
+# Compiled binaries
+*.exe
+
+# Temp test files
+uploadtest_temp/

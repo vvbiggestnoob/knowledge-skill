@@ -1,0 +1,28 @@
+{
+  "defaultKnowledgeName": "示例知识库A",
+  "defaultKnowledgeId": "knowledge-base-uuid-a",
+  "workspaces": [
+    {
+      "api-key": "sk-xxx1",
+      "knowledgeBases": [
+        {
+          "name": "示例知识库A",
+          "id": "knowledge-base-uuid-a"
+        },
+        {
+          "name": "示例知识库B",
+          "id": "knowledge-base-uuid-b"
+        }
+      ]
+    },
+    {
+      "api-key": "sk-xxx2",
+      "knowledgeBases": [
+        {
+          "name": "示例知识库C",
+          "id": "knowledge-base-uuid-c"
+        }
+      ]
+    }
+  ]
+}
